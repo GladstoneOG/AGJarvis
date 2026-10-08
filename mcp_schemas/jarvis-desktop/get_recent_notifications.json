@@ -1,0 +1,1 @@
+{"name":"get_recent_notifications","description":"Retrieves the latest Windows toast notifications from the Action Center.\nRequires Windows Runtime UserNotificationListener.","parameters":{"additionalProperties":false,"properties":{"count":{"default":5,"type":"integer"}},"type":"object"}}

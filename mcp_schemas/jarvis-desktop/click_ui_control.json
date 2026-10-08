@@ -1,0 +1,1 @@
+{"name":"click_ui_control","description":"Deterministically clicks a specific named UI element inside a window by searching its Accessibility Tree.","parameters":{"additionalProperties":false,"properties":{"control_name":{"type":"string"},"control_type":{"default":"","type":"string"},"window_title":{"type":"string"}},"required":["window_title","control_name"],"type":"object"}}

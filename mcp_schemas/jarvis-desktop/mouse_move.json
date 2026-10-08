@@ -1,0 +1,1 @@
+{"name":"mouse_move","description":"Moves the mouse smoothly to (x, y).","parameters":{"additionalProperties":false,"properties":{"duration":{"default":0.2,"type":"number"},"x":{"type":"integer"},"y":{"type":"integer"}},"required":["x","y"],"type":"object"}}

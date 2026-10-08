@@ -1,0 +1,1 @@
+{"name":"close_window","description":"Gracefully closes a window matching the title query or PID.","parameters":{"additionalProperties":false,"properties":{"query":{"type":"string"}},"required":["query"],"type":"object"}}

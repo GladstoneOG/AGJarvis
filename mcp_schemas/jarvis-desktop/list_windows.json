@@ -1,0 +1,1 @@
+{"name":"list_windows","description":"Enumerates all visible, titled application windows on the interactive desktop.\nReturns title, HWND, process name, PID, and bounding box for each window.","parameters":{"additionalProperties":false,"properties":{},"type":"object"}}

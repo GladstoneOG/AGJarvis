@@ -1,0 +1,28 @@
+# Discord Bot & Communication
+discord.py>=2.3.2
+python-dotenv>=1.0.0
+
+# Google Gemini Multimodal Speech Transcription
+google-genai>=0.1.0
+
+# MCP (Model Context Protocol) Server
+fastmcp>=0.1.0
+
+# Windows System, Desktop & Win32 Automation
+pywin32>=306
+pyautogui>=0.9.54
+pillow>=10.0.0
+psutil>=5.9.0
+pyperclip>=1.8.2
+uiautomation>=2.0.18
+
+# Vision, Computer Vision & OCR
+opencv-python>=4.8.0
+numpy>=1.24.0
+winsdk>=1.0.0b10
+
+# Windows Audio & Volume Control
+pycaw>=20240101
+
+# Office & Excel Automation
+openpyxl>=3.1.0

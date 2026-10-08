@@ -1,0 +1,1 @@
+{"name":"click_dialog_button","description":"Deterministically clicks a standard button (e.g. 'OK', 'Cancel', 'Yes', 'No', 'Save', 'Open')\nin the active modal or dialog window.","parameters":{"additionalProperties":false,"properties":{"button_name":{"default":"OK","type":"string"}},"type":"object"}}

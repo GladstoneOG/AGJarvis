@@ -1,0 +1,1 @@
+{"name":"get_cursor_position","description":"Returns the current mouse cursor (x, y) position and desktop resolution.","parameters":{"additionalProperties":false,"properties":{},"type":"object"}}

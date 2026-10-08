@@ -1,0 +1,1 @@
+{"name":"get_system_vitals","description":"Returns real-time health metrics of the PC: CPU load, RAM usage, disk space,\nbattery status, system uptime, and currently focused window.","parameters":{"additionalProperties":false,"properties":{},"type":"object"}}

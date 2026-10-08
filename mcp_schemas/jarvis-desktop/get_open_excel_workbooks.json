@@ -1,0 +1,1 @@
+{"name":"get_open_excel_workbooks","description":"Enumerates all open Excel workbooks currently running on the system by inspecting Excel processes,\nwindow titles, and open file handles.","parameters":{"additionalProperties":false,"properties":{},"type":"object"}}

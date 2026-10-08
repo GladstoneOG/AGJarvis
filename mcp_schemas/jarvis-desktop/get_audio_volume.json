@@ -1,0 +1,1 @@
+{"name":"get_audio_volume","description":"Returns current master speaker volume level (0-100) and mute state.","parameters":{"additionalProperties":false,"properties":{},"type":"object"}}

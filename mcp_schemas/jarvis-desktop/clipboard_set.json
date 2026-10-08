@@ -1,0 +1,1 @@
+{"name":"clipboard_set","description":"Sets the text of the Windows clipboard.","parameters":{"additionalProperties":false,"properties":{"text":{"type":"string"}},"required":["text"],"type":"object"}}

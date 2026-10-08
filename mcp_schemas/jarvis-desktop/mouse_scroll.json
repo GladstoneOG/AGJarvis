@@ -1,0 +1,1 @@
+{"name":"mouse_scroll","description":"Scrolls the mouse wheel.\nPositive value scrolls UP, negative value scrolls DOWN.","parameters":{"additionalProperties":false,"properties":{"clicks":{"type":"integer"}},"required":["clicks"],"type":"object"}}

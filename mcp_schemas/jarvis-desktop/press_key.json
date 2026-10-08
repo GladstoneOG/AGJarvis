@@ -1,0 +1,1 @@
+{"name":"press_key","description":"Presses a specific key (e.g. 'enter', 'esc', 'tab', 'backspace', 'space', 'up', 'down', 'f5').","parameters":{"additionalProperties":false,"properties":{"key":{"type":"string"}},"required":["key"],"type":"object"}}

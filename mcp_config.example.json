@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "jarvis-desktop": {
+      "command": "python",
+      "args": [
+        "C:\\path\\to\\AGJarvis\\discord_bridge\\desktop_mcp.py"
+      ]
+    }
+  }
+}

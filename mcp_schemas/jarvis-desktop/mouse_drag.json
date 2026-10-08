@@ -1,0 +1,1 @@
+{"name":"mouse_drag","description":"Drags the mouse from (start_x, start_y) to (end_x, end_y).","parameters":{"additionalProperties":false,"properties":{"duration":{"default":0.5,"type":"number"},"end_x":{"type":"integer"},"end_y":{"type":"integer"},"start_x":{"type":"integer"},"start_y":{"type":"integer"}},"required":["start_x","start_y","end_x","end_y"],"type":"object"}}

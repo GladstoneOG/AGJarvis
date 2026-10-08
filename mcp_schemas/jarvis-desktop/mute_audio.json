@@ -1,0 +1,1 @@
+{"name":"mute_audio","description":"Mutes, unmutes, or toggles master audio if mute is not specified.","parameters":{"additionalProperties":false,"properties":{"mute":{"anyOf":[{"type":"boolean"},{"type":"null"}],"default":null}},"type":"object"}}

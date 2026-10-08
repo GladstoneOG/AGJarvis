@@ -1,0 +1,1 @@
+{"name":"hotkey","description":"Presses a key combination shortcut simultaneously (e.g. ['ctrl', 'c'], ['alt', 'tab'], ['win', 'r'], ['ctrl', 'shift', 'esc']).","parameters":{"additionalProperties":false,"properties":{"keys":{"items":{"type":"string"},"type":"array"}},"required":["keys"],"type":"object"}}

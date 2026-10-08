@@ -1,0 +1,44 @@
+# Environment variables & secrets (CRITICAL: Never commit .env)
+.env
+.env.*
+!.env.example
+
+# Local runtime state & database mappings
+thread_mappings.json
+!thread_mappings.json.example
+*.db
+*.db-shm
+*.db-wal
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Temporary logs & debug outputs
+*.log
+debug_err.log
+debug_out.log
+
+# Desktop cache & screenshot artifacts
+desktop_cache/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+!docs/assets/*.png
+!docs/assets/*.jpg
+
+# OS-specific clutter
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo

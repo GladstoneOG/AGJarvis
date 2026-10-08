@@ -1,0 +1,13 @@
+{
+  "1234567890123456789": {
+    "conversation_id": "example-uuid-conversation-id",
+    "project_name": "MyProject",
+    "workspace_path": "C:/Projects/MyProject",
+    "title": "Jarvis Development Session",
+    "project_id": "example-uuid-project-id",
+    "last_synced_line": 0,
+    "model": "Gemini 3.8 Flash (High)",
+    "model_id": "MODEL_PLACEHOLDER_M318",
+    "policy": "auto"
+  }
+}

@@ -1,0 +1,1 @@
+{"name":"focus_window","description":"Brings a window matching the title query (case-insensitive substring) or PID to the foreground.\nRestores the window if it was minimized.","parameters":{"additionalProperties":false,"properties":{"query":{"type":"string"}},"required":["query"],"type":"object"}}

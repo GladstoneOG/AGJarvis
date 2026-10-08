@@ -1,0 +1,1 @@
+{"name":"get_window_controls","description":"Inspects interactive UI controls (buttons, input boxes, check boxes, tabs) inside a window\nusing Windows UI Automation (Accessibility Tree).","parameters":{"additionalProperties":false,"properties":{"max_depth":{"default":2,"type":"integer"},"window_title":{"type":"string"}},"required":["window_title"],"type":"object"}}

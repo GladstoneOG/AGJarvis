@@ -1,0 +1,1 @@
+{"name":"show_hud","description":"Toggles or resets the floating HUD Log Window overlay.","parameters":{"additionalProperties":false,"properties":{"visible":{"default":true,"type":"boolean"}},"type":"object"}}
